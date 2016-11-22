@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "ignore me",
+    "INSTALL_MSG" : "Done.",
+    "NAME" : "Up",
+    "SHORT" : "Displays the bot's uptime in an embed.",
+    "DESCRIPTION" : "Displays the bot's uptime in an embed."
+}
