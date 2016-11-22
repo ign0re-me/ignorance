@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "ignore me",
+    "INSTALL_MSG" : "Done.",
+    "NAME" : "Speedtest",
+    "SHORT" : "Tests the bot's internet speed.",
+    "DESCRIPTION" : "Uses speedtest.net and speedtest-cli to test the internet speed of the bot and display the results in an embed."
+}
